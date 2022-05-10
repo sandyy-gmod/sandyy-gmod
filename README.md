@@ -12,6 +12,16 @@
     </h1>
 </div>
 
+<div id="info">
+    <h3>
+        My name is sandyy [online-alias]
+        I am a Cyber-Security / Software Engineer enthusiast<br>
+        The languages I am most confident in are <b>PY - JS - gLua - C#</b><br>
+        I hope to learn the following languages <b>C++/CPP - UNITY[FRAMEWORK] -  TAILWIND[FRAMEWORK]</b>
+        I know less of the following languages (and wish to learn more) <b>PHP - HTML - CSS - ASM</b>
+    </h3>
+</div>
+
 
 <!--
 **sandyy-gmod/sandyy-gmod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
