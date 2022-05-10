@@ -21,7 +21,7 @@
 </div>
 <hr>
 <p align="center">
-    <img src="https://lanyard.cnrad.dev/api/376637225217294337" width="696969696"><br>
+    <img src="https://lanyard.cnrad.dev/api/376637225217294337" width="696969696"><br> <!--fit entire width-->
 </p>
 
 
