@@ -13,9 +13,10 @@
 
 <hr>
 <div id="info" align="center">
+    I plan on making public repos soon.
     My name is sandyy [online alias]<br><br>
     I am a Cyber-Security / Software Engineer enthusiast<br>
-    The languages I am most confident in are <strong>PY - JS - gLua - C#</strong><br>
+    The languages I am most confident in are <strong>PY - JavaScript - GMOD Lua - C#</strong><br>
     I hope to learn the following languages/frameworks <strong>C++ - UNITY - TAILWIND</strong><br>
     I know less of the following languages <strong>PHP - HTML - CSS - ASM</strong><br>
 </div>
