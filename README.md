@@ -13,7 +13,7 @@
 
 <hr>
 <div id="info" align="center">
-    I plan on making public repos soon.
+    I plan on making public repos soon.<br><br>
     My name is sandyy [online alias]<br><br>
     I am a Cyber-Security / Software Engineer enthusiast<br>
     The languages I am most confident in are <strong>PY - JavaScript - GMOD Lua - C#</strong><br>
